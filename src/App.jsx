@@ -3,6 +3,7 @@ import Navbar from './components/Navbar/Navbar'
 import Hero from './components/Hero/Hero'
 import Program from './components/Program/Program'
 import Title from './components/Title/Title'
+import About from './components/About/About'
 
 const App = () => {
   return (
@@ -13,6 +14,9 @@ const App = () => {
         {/* /*These are happen due to props/* */}
         <Title subtitle='OUR PROGRAM' title='What we offer'/>
         <Program/>
+        <About/>
+        <Title subtitle='GALLERY' title='Campus Photo'/>
+
       </div>
       
       
