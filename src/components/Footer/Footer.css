@@ -8,7 +8,21 @@
 
 }
 .footer ul li{
-    list-style:none ;
+    list-style:circle ;
     display: inline-block;
     margin-left: 20px;
+}
+.footer ul h1{
+    text-align: center;
+}
+
+/* ----media query---*/
+@media (max-width:600px){
+    .footer{
+        display: block;
+        text-align: center;
+    }
+    .footer ul li{
+        margin-top: 10px;
+    }
 }
