@@ -47,9 +47,9 @@ const Contact = () => {
                 universityy  community. </p>
                 <ul>
                     <li><img src={mail_icon
-                    } alt="" />Contact@shivakumar.dev</li>
-                    <li><img src={phone_icon} alt="" />9843284725</li>
-                    <li><img src={location_icon} alt="" />MIT ,United state</li>
+                    } alt="" />Contact@shivakumar@gmail.com</li>
+                    <li><img src={phone_icon} alt="" />9155563895</li>
+                    <li><img src={location_icon} alt="" />Student at Cmr Technical Campus</li>
                 </ul>
         </div>
         <div className="contact-col">

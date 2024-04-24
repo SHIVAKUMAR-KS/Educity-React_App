@@ -12,7 +12,8 @@ import VideoPlayer from './components/VideoPlayer/VideoPlayer'
  
 const App = () => {
   const [playState,setPlayState]=useState(false);
-
+  //dark mode start
+  //end
   return (
     <div>
       <Navbar/>
